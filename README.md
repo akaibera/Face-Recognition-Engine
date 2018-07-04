@@ -14,13 +14,13 @@ Eigenface, Fisherface and LBPHface
 
 Instruction of installation:
 
-1.install anaconda 3
+1.Install anaconda3
 
-2.open anaconda prompt- run "conda install -c menpo opencv3"
+2.Open anaconda prompt- run "conda install -c menpo opencv3"
 
-3.then run--"pip install pillow"
+3.Then run--"pip install pillow"
 
-4.installing tensorflow- "pip install tensorflow=1.0"
+4.Installing tensorflow- "pip install tensorflow=1.0"
 
 First click "Add people" and add person's photo...
 Then click "Start Recognizer" ---- Choose your algorithm and see the result..
