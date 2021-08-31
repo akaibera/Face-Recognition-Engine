@@ -24,4 +24,4 @@ Instruction of installation:
 
 First click "Add people" and add person's photo...
 Then click "Start Recognizer" ---- Choose your algorithm and see the result..
-
+"Akai is a bad boy"
